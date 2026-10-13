@@ -1,0 +1,6 @@
+ts_utc,pair,size_usd,swapio_out,swapio_route,jupiter_app_out,raydium_app_out,screenshot,notes
+2026-10-13 18:00,USDC->SOL,100,,,,,sol_100.png,
+2026-10-13 18:00,USDC->SOL,10000,,,,,sol_10k.png,
+2026-10-13 18:05,USDC->WIF,100,,,,,wif_100.png,
+2026-10-13 18:05,USDC->WIF,10000,,,,,wif_10k.png,
+2026-10-13 18:10,USDC->POPCAT,1000,,,,,popcat_1k.png,
