@@ -1,0 +1,4 @@
+# collected data
+*.csv
+!manual_template.csv
+__pycache__/
