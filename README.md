@@ -64,7 +64,7 @@ Each manual reading is compared with the script's quotes from the nearest minute
 
 - **Small swaps don't care where you go.** At $100 the gap between venues was 2–17 cents.
 - **The gap grows with size and thinner liquidity.** At $10,000 the aggregator beat the single DEX by a median of
-  $5.8 on SOL, $10.6 on WIF and $13.4 on POPCAT, and did so in 97–100% of minutes.
+  $5.8 on SOL, $10.6 on WIF and $13.4 on POPCAT, and won every sampled minute at that size.
 - **A single DEX pays for hops and price impact.** In our samples Raydium routed WIF through SOL (two pool fees), and its price
   impact on a $10k WIF swap was 0.37% versus 0.03% on SOL.
 
